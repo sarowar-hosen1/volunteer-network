@@ -1,0 +1,30 @@
+.register{
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(238, 238, 238);
+    padding-top:100px;
+}
+.register img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.register form{
+    width: 30%;
+    padding:20px;
+    background-color:white;
+    margin:auto;
+}
+.register form input {
+    border: none;
+    border-bottom: 1px solid gray;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-family: cursive;
+}
+.register span{
+    font-size: 14px;
+    color: red;
+}

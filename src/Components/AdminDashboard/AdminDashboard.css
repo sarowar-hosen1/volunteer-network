@@ -1,0 +1,32 @@
+.admin-dashboard{
+    width:100%;
+    height: 100vh;
+}
+.dashboard-panel {
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.dashboard-panel p {
+    font-weight: 500;
+}
+.dashboard-panel a{}
+.dashboard-content{
+    height: auto;
+    padding: 30px 20px 20px 20px;
+}
+.dashboard-content h3{
+    font-family: 'JetBrains Mono', monospace;
+    margin-bottom: 20px;
+}
+.table-div {
+    background-color: #e2f5fd;
+    padding: 20px;
+    height: 100%;
+}
+.table{
+    background-color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.table tr{
+    line-height: 17px;
+}

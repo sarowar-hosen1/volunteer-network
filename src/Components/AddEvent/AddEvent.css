@@ -1,0 +1,19 @@
+.addEvent {
+    height: 100vh;
+    padding: 30px 20px 20px 20px;
+    background-color: #dedede;
+}
+.addEvent h3{
+    font-family: 'JetBrains Mono', monospace;
+    margin-bottom: 20px;
+}
+.addEvent form {
+    background-color: white;
+    padding: 24px;
+    border-radius: 15px;
+    width: 50%;
+}
+.addEvent form span {
+    font-size: 14px;
+    color: red;
+}

@@ -1,0 +1,17 @@
+a.navbar-brand {
+    width: 180px;
+}
+.nav-link {
+    color: rgb(73, 73, 73);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 08px;
+}
+.nav-link:hover{
+    color: black;
+}
+.user-photo img {
+    width: 40px;
+    margin-left: 15px;
+    border-radius: 50%;
+}
